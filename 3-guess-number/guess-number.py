@@ -1,0 +1,35 @@
+import random
+import time
+import os
+while True:
+    os.system('cls')
+    print('welecome to guess number')
+    print('pls enter the range number you want to guess : ')
+    start_number = int(input('enter range(start,) : '))
+    end_number = int(input('enter range(,end) : '))
+    anser_number = random.randint(start_number, end_number)
+    guessed_number = input('enter youer guess :-) : ')
+    os.system('cls')
+    print('ready :-)')
+    time.sleep(1)
+    os.system('cls')
+    print('your guess is')
+    time.sleep(1)
+    os.system('cls')
+    print('your guess iss')
+    time.sleep(1)
+    os.system('cls')
+    print('your guess isss')
+    time.sleep(1)
+    os.system('cls')
+    print('your guess issss')
+    time.sleep(1)
+    if guessed_number == anser_number:
+        print('your guess is curect :-)')
+        print('your anser ',guessed_number)
+        print('number was ',anser_number)
+    else:
+        print('your guess is incurect :`-( ')
+        print('number was ',anser_number)
+        print('your anser ',guessed_number)
+    input('press enter to play again')
