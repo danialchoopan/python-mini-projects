@@ -1,5 +1,5 @@
 # python-mini-projects
-#### list of all project in this repository 
+#### list of mini projects 
 ---
 - [dice roller](/dice_roller)
 - [guess number](/guess_number)
