@@ -1,12 +1,12 @@
 # python-mini-projects
-<p>list of mini projects</p>
-<ol>
-  <li>dice roller</li>
-  <li>guess number</li>
-  <li>random password generator</li>
-  <li>calculator</li>
-  <li>text to speak</li>
-  <li>food</li>
-  <li>password cracker</li>
-  <li>draw shape</li>
-</ol>
+#### list of all project in this repository 
+---
+- [dice roller](/dice_roller)
+- [guess number](/guess_number)
+- [password tools](/password_tools)
+- [calculator](/calculator)
+- [text to speak](/text_to_speak)
+- [food chooser](/food_chooser)
+- [draw shape](/draw_shape)
+- [weather api](/weather_api)
+- [covid-19 confirmed cases](/covid_19)
