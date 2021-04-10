@@ -1,10 +1,12 @@
 # python-mini-projects
-list of mini projects
-1-dice roller
-2-guess number
-3-random password generator
-4-calculator
-5-text to speak
-6-food
-7-password cracker
-9-draw shape
+<p>list of mini projects</p>
+<ol>
+  <li>dice roller</li>
+  <li>guess number</li>
+  <li>random password generator</li>
+  <li>calculator</li>
+  <li>text to speak</li>
+  <li>food</li>
+  <li>password cracker</li>
+  <li>draw shape</li>
+</ol>
