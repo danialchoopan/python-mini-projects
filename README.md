@@ -10,3 +10,4 @@
 - [draw shape](/draw_shape)
 - [weather api](/weather_api)
 - [covid-19 confirmed cases](/covid_19)
+- [download with requests](/download_with_requests)
