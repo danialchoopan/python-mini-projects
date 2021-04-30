@@ -12,3 +12,4 @@
 - [covid-19 confirmed cases](/covid_19)
 - [download with requests](/download_with_requests)
 - [sqlite phonebook](/phonebook)
+- [qrcode generator](/qrcode_generator)
